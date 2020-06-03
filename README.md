@@ -27,9 +27,13 @@ Anticipation of energy consumption of Seattle buildings :
 - Residual Analysis
 - Fine-tuning of final models 
 > Regression Ridge 
+
 > Regression Lasso
+
 > Elastic Net
+
 > Consideration of use of bagging
+
 > Fine-tuning de random forests
 
 - Evaluation of ENERGY STAR SCORE feature
